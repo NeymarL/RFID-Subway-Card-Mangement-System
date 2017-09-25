@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/subway_pic</file>
+        <file>resources/Wuhan_Metro_bilingual_map.png</file>
+        <file>resources/subway_yellow.png</file>
+        <file>resources/subway_black.png</file>
+        <file>resources/subway_blue.png</file>
+    </qresource>
+</RCC>
