@@ -2,7 +2,7 @@
 
 This project implements an RFID subway card management system. Subway card is an electronic wallet useing radio frequency (RFID) technology, non-contact IC card as a transaction fee payment media. The goal of our system is making use of advanced computer networks, automatic control, information processing, communications and other technologies to establish a application system of the subway card's issuance, consumption and settlement.
 
-The system is written in C++ with Qt5.
+The system is written in C++ with Qt5 using SQLite as DBMS.
 
 
 ## Run
